@@ -1,3 +1,35 @@
 body {
-    color: pink;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+.title {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.copyright {
+    text-align: right;
+    color: gray;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+}
+.guide {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+}
+.places {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+}
+.iPhone {
+    font-family: Verdana;
+    font-size: 42px;
+    font-weight: 300;
 }
